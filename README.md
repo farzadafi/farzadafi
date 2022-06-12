@@ -29,7 +29,7 @@ A **Java DEVELOPMENT** ***Enthusiast*** 🚀.
 **Languages and Tools:**  
 
 
-<code><img height="20" src="https://pluspng.com/img-png/java-png-png-300x225-java-logo-no-background-300.png"></code>
+<code><img height="20" src="https://icon-library.com/images/java-icon-images/java-icon-images-8.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
