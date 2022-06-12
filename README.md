@@ -29,8 +29,18 @@ A **Java DEVELOPMENT** ***Enthusiast*** 🚀.
 **Languages and Tools:**  
 
 
-<code><img height="20" src="https://icon-library.com/images/java-icon-images/java-icon-images-8.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/java/java.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/maven/maven.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/spring-boot/spring-boot.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/sql/sql.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/html/html.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/css/css.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/ajax/ajax.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/jquery/jquery.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/linux/linux.png?raw=true"></code>
 
 
 
