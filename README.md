@@ -18,7 +18,7 @@ A **Java DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 
+- 
 - 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
 - 🤔 My interest lies in Back end development.
 - 💬 Ask me about anything, I love to answer!
@@ -34,9 +34,9 @@ A **Java DEVELOPMENT** ***Enthusiast*** 🚀.
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=farzadafi&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=farzadafi&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="farzadafi GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farzadafi&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzadafi&count_private=true&theme=radical" alt="farzadafi" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzadafi&count_private=false&theme=radical" alt="farzadafi" />
 
 ----
 Credit: [farzadafi](https://github.com/farzadafi)
