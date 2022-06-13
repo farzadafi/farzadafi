@@ -1,12 +1,10 @@
 <h3 title="hehehe"> Hey 👋, I'm FarzadAfi!</h3>
 
+A **Java DEVELOPMENT** ***Enthusiast*** 🚀.
+
 <a href="">
   <img align="left" alt="farzad LinkedIn" width="24px" src="https://cdn2.hubspot.net/hubfs/521324/App-Icon-1200x1200-linkedin-2.png" />
 </a>
-
-
-
-A **Java DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
