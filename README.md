@@ -1,25 +1,30 @@
- <img align="center" style="align:center"  alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+ <img align="center" style="display: block;margin-left: auto;margin-right: auto;"  alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <h3 title="hehehe"> Hey 👋, I'm FarzadAfi!</h3>
 
+
 A **Java DEVELOPMENT** ***Enthusiast*** 🚀.
 
-<a href="">
-  <img align="left" alt="farzad LinkedIn" width="24px" src="https://cdn2.hubspot.net/hubfs/521324/App-Icon-1200x1200-linkedin-2.png" />
-</a>
+
  
 <br>
 
  
 
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
+- 🌱 I’m currently exploring JAVA SE & JAVA EE.
 - 🤔 My interest lies in Back end development.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [farzadafi40@gmail.com](mailto:farzadafi40@gmail.com).
+- <a href="">farzadafi40@gmail.com
+  <img align="left" alt="farzad gmail" width="24px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-2013-2020.png" />
+</a>
+
+- <a href="">Linkedin
+  <img align="left" alt="farzad LinkedIn" width="24px" src="https://cdn2.hubspot.net/hubfs/521324/App-Icon-1200x1200-linkedin-2.png" />
+</a>
 
 
-
-**Languages and Tools:**  
+<br>
+<h3> Languages and Tools:</h3>
 
 
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/java/java.png?raw=true"></code>
