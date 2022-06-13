@@ -1,7 +1,7 @@
 <h3 title="hehehe"> Hey 👋, I'm FarzadAfi!</h3>
 
 <a href="">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="farzad LinkedIn" width="24px" src="https://cdn2.hubspot.net/hubfs/521324/App-Icon-1200x1200-linkedin-2.png" />
 </a>
 
 
