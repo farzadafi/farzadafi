@@ -46,7 +46,7 @@ A **Java DEVELOPMENT** ***Enthusiast*** 🚀.
 
 <img align="right" width="480" src="https://github-readme-stats.vercel.app/api?username=farzadafi&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="farzadafi GitHub Stats">
 <img width="480" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farzadafi&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzadafi&private_count=true&repo=HomeService_MVC&theme=radical" alt="farzadafi" />
+<img align="center" width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzadafi&private_count=true&repo=HomeService_MVC&theme=radical" alt="farzadafi" />
 
 
 
