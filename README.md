@@ -9,9 +9,6 @@ A **Java DEVELOPMENT** ***Enthusiast*** 🚀.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**About Me!**
-
-- 
 - 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
 - 🤔 My interest lies in Back end development.
 - 💬 Ask me about anything, I love to answer!
