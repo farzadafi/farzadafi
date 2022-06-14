@@ -42,7 +42,7 @@ A **Java DEVELOPMENT** ***Enthusiast*** 🚀.
 
 <img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=farzadafi&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="farzadafi GitHub Stats">
 <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=farzadafi&count_private=true&theme=radical" alt="farzadafi" />
-<img width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzadafi&repo=HomeService_MVC&layout=compact&theme=radical" alt="farzadafi" />
+<img width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzadafi&layout=compact&theme=radical" alt="farzadafi" />
 
 
 
