@@ -22,12 +22,7 @@ A **Java DEVELOPMENT** ***Enthusiast*** 🚀.
   <img align="left" alt="farzad LinkedIn" width="24px" src="https://cdn2.hubspot.net/hubfs/521324/App-Icon-1200x1200-linkedin-2.png" />
 </a>
 
-
-<br>
-<br>
-<br>
 <h3> Languages and Tools:</h3>
-
 
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/java/java.png?raw=true"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/maven/maven.png?raw=true"></code>
