@@ -18,9 +18,6 @@ A **Java DEVELOPMENT** ***Enthusiast*** 🚀.
   <img align="left" alt="farzad gmail" target="_blank" width="24px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-2013-2020.png" />
 </a>
 
-- <a target="_blank" href="https://ir.linkedin.com/in/farzad-afshar-018ab1168?trk=people-guest_people_search-card">Linkedin
-  <img align="left" alt="farzad LinkedIn" width="24px" src="https://cdn2.hubspot.net/hubfs/521324/App-Icon-1200x1200-linkedin-2.png" />
-</a>
 
 <h3> Languages and Tools:</h3>
 
