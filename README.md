@@ -34,7 +34,7 @@ A **Java DEVELOPMENT** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/ajax/ajax.png?raw=true"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/jquery/jquery.png?raw=true"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/linux/linux.png?raw=true"></code>
-<code><img height="20" src="https://github.com/explore/blob/main/topics/linux/linux.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/vim/vim.png?raw=true"></code>
 
 
 
