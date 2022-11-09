@@ -28,7 +28,7 @@ A **Java DEVELOPMENT** ***Enthusiast*** 🚀.
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg?raw=true"></code>
 <br>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg?raw=true"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/css/css.png?raw=true"></code>
+<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg?raw=true"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png?raw=true"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/ajax/ajax.png?raw=true"></code>
