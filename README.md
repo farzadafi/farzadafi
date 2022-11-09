@@ -22,7 +22,7 @@ A **Java DEVELOPMENT** ***Enthusiast*** 🚀.
 <h3> Languages and Tools:</h3>
 
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg?raw=true"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/maven/maven.png?raw=true"></code>
+<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Light.svg?raw=true"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/spring-boot/spring-boot.png?raw=true"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/sql/sql.png?raw=true"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png?raw=true"></code>
