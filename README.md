@@ -21,7 +21,7 @@ A **Java DEVELOPMENT** ***Enthusiast*** 🚀.
 
 <h3> Languages and Tools:</h3>
 
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/java/java.png?raw=true"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/main/topics/java/java.png?raw=true"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/maven/maven.png?raw=true"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/spring-boot/spring-boot.png?raw=true"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/sql/sql.png?raw=true"></code>
