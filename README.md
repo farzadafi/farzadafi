@@ -21,10 +21,10 @@ A **Java DEVELOPMENT** ***Enthusiast*** 🚀.
 
 <h3> Languages and Tools:</h3>
 
-<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg?raw=true"></code>
-<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Light.svg?raw=true"></code>
-<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg?raw=true"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/sql/sql.png?raw=true"></code>
+<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg?raw=true"></code>
+<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg?raw=true"></code>
+<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg?raw=true"></code>
+<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg?raw=true"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png?raw=true"></code>
 <br>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/html/html.png?raw=true"></code>
