@@ -27,6 +27,8 @@
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg?raw=true"></code>
+<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg?raw=true"></code>
+
 
 
 
