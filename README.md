@@ -25,8 +25,7 @@
 <code><img height="40" src="http://www.archlinux.org/logos/archlinux-icon-crystal-64.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg?raw=true"></code>
-
-
+<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg?raw=true"></code>
 
 
 
