@@ -8,6 +8,7 @@
 <br>
 
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg?raw=true"></code>
+<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg?raw=true"></code>
