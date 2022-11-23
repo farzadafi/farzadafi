@@ -9,12 +9,6 @@ A **Java DEVELOPMENT** ***Enthusiast*** 🚀.
  
 <br>
 
- 
-
-- 🌱 I’m currently exploring JAVA SE & JAVA EE.
-- 🤔 My interest lies in Back end development.
-- 💬 Ask me about anything, I love to answer!
-- <a href="">farzadafi40@gmail.com
   <img align="left" alt="farzad gmail" target="_blank" width="24px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-2013-2020.png" />
 </a>
 
