@@ -1,7 +1,7 @@
-<h3 title="hehehe" style="text-align: center"> Hey 👋, I'm FarzadAfi!</h3>
-<h4 style="text-align: center"> A <b >Java DEVELOPMENT</b> Enthusiast 🚀.</h4>
+<h3 title="hehehe" align="center"> Hey 👋, I'm FarzadAfi!</h3>
+<h4 align="center"> A <b >Java DEVELOPMENT</b> Enthusiast 🚀.</h4>
 
- <img style="display: block;margin-left: auto;margin-right: auto;"  alt="GIF" src="./farzadAnimation.gif" />
+ <img align="center" style="display: block;margin-left: auto;margin-right: auto;"  alt="GIF" src="./farzadAnimation.gif" />
 
 
 
