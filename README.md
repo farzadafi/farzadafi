@@ -19,11 +19,12 @@
 <code><img height="40" src="https://github.com/github/explore/blob/main/topics/ajax/ajax.png?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg?raw=true"></code>
+<code><img height="40" src="http://www.archlinux.org/logos/archlinux-icon-crystal-64.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/main/topics/docker/docker.png?raw=true"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/main/topics/gradle/gradle.png?raw=true"></code>
-<code><img height="40" src="https://github.com/github/explore/blob/main/topics/archlinux/archlinux.png?raw=true"></code>
+
 
 
 
