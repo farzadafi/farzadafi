@@ -6,7 +6,7 @@
 </p>
 
 <br>
-
+<p align="center">
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg?raw=true"></code>
@@ -30,7 +30,7 @@
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg?raw=true"></code>
-
+</p>
 
 
 
