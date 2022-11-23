@@ -5,18 +5,13 @@
  <img align="center" alt="GIF" src="./farzadAnimation.gif" />
 </p>
 
-
- 
 <br>
-
-<h3> Languages and Tools:</h3>
 
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg?raw=true"></code>
-<br>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg?raw=true"></code>
