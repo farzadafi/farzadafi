@@ -13,6 +13,8 @@
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg?raw=true"></code>
+<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg?raw=true"></code>
+<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg?raw=true"></code>
@@ -22,7 +24,6 @@
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg?raw=true"></code>
 <code><img height="40" src="http://www.archlinux.org/logos/archlinux-icon-crystal-64.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg?raw=true"></code>
-<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg?raw=true"></code>
 
 
