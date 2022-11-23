@@ -15,7 +15,7 @@
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg?raw=true"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png?raw=true"></code>
+<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg?raw=true"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/ajax/ajax.png?raw=true"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/jquery/jquery.png?raw=true"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/linux/linux.png?raw=true"></code>
