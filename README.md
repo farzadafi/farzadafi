@@ -20,7 +20,7 @@
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg?raw=true"></code>
  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg?raw=true"></code>
-
+ <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/main/topics/ajax/ajax.png?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg?raw=true"></code>
