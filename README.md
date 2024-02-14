@@ -2,7 +2,7 @@
 <h4 align="center"> A <b >Teacher and Java DEVELOPMENT</b> Enthusiast 🚀.</h4>
 
 <p align="center">
- <img align="center" alt="GIF" src="./farzadAnimation.gif" />
+ <img align="center" alt="GIF" src="https://github.com/farzadafi/farzadafi/blob/main/tech.gif" />
 </p>
 
 <br>
